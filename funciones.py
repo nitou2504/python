@@ -14,4 +14,4 @@ elif opcion == 2:
 elif opcion == 3:
     conversacion('3')
 else:
-    print('No escogiste ninguna opcion, me da amsiedad 🐶')
+    print('No escogiste nimguna, me da amsiedad 🐶')
